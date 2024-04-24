@@ -30,10 +30,11 @@
 /*Escrito sobre a imagem*/
 .toptxt{
     position: absolute;
-    top: 450px;
-    right: 16px;
+    top: 300px;
+    right: 60px;
     font-family:'Times New Roman', Times, serif;
     background-color: transparent;
+    padding-left: 60%;
 }
 
 /*Barra de navegação*/
